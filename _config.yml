@@ -1,14 +1,15 @@
 title: Khuyen Tran # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+logo: "/images/img.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   About me 
-  <br><br>
+  <br>An applied mathematics student with the love for data science, machine learning, and the passion for solving challenging problems with AI<br>
+  <br>Techical Writer | Data Consultant Intern | Applied Math 4.0 | NLP Research Assistant
   My current mission
-  <br><br>
+  <br>Learn, Apply, Share, Repeat<br>
   <a href="https://www.linkedin.com/in/khuyen-tran-1ab926151/">View My LinkedIn Profile</a> 
   <a href="https://github.com/khuyentran1401">View My Github Profile</a> 
   <a href="https://twitter.com/KhuyenTran16">View My Twitter</a> 
   
   
 theme: jekyll-theme-minimal
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+google_analytics: UA-156351126-1 # your Google Analytics tracking ID here
