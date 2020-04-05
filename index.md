@@ -21,4 +21,3 @@ Identity gender and language variety in Twitter in English. In specific, we want
 
 
 ---
-<!-- Remove above link if you don't want to attibute -->
