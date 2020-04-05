@@ -1,35 +1,24 @@
-## Portfolio
+# Portfolio
 
 ---
 
-### Category Name 1 
+## Natural Language Processing
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+### Real or Not - Predict which Tweets are about real disasters and which ones are not
 
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/khuyentran1401/Real-or-Not)
 
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+Predict whether a tweet is about a disaster ot not. Preprocess with NLTK (Natural Language Toolkit) and perform model training with various models and techniques including: Tf-Idf, Tf-Idf with Ngrams (words and characters), SelectKbest, Binary Vectorizer, Word2Vec, Neural Network and Convolutional Neural Network with PyTorch. Achieve a f1-score of 80%.
+
+<center><img src="images/word2vec.png?raw=true"/></center>
 
 ---
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/khuyentran1401/Author-Profiling)
 
-### Category Name 2
+Identity gender and language variety in Twitter in English. In specific, we want to classify between **male** and **female** and their locations including **Australia, Canada, Great Britain, Ireland, New Zealand, United States**.
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
-
-
+<center><img src="bert-input-output-945x362.png?raw=true"/></center>
 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
