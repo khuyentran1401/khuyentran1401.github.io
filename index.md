@@ -17,7 +17,7 @@ Predict whether a tweet is about a disaster ot not. Preprocess with NLTK (Natura
 
 Identity gender and language variety in Twitter in English. In specific, we want to classify between **male** and **female** and their locations including **Australia, Canada, Great Britain, Ireland, New Zealand, United States**.
 
-<center><img src="bert-input-output-945x362.png?raw=true"/></center>
+<center><img src="images/bert-input-output-945x362.png?raw=true"/></center>
 
 
 ---
