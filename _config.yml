@@ -19,7 +19,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <p align="center"> 
   
   
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
 google_analytics: UA-156351126-1 # your Google Analytics tracking ID here 
 
 
