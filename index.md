@@ -52,6 +52,8 @@ Identity gender and language variety in Twitter in English. In specific, we want
 
 **Description**: Find the predictors of suicide among different countries, years, sex, generation, and age group. Apply multiple preprocesing techniques, incorporate geopandas to visualize the distribution on the map, and utilize three different machine learning models with accurate metrics of measuring. 
 
+![image](https://github.com/khuyentran1401/Suicide-rates/blob/master/images/Screenshot%202020-04-06%2010.20.56.png?raw=true)
+
 ### Analyze World Happiness Report
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/khuyentran1401/analyze-happiness-report/tree/master)
 
@@ -71,8 +73,6 @@ Identity gender and language variety in Twitter in English. In specific, we want
 ![image](https://image.tmdb.org/t/p/w185_and_h278_bestv2/hnYowHwLq0iUWriAHtiiCWsI2dP.jpg)
 
 **Tools**: Numpy, Pandas, Seaborn, Scikit-learn
-
- ![image](https://github.com/khuyentran1401/Suicide-rates/blob/master/images/Screenshot%202020-04-06%2010.20.56.png?raw=true)
 
 ### Find the Correlation between Depression Rate and Sunshine Hours
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/khuyentran1401/Web-Scrapping-Wikipedia)
