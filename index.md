@@ -31,7 +31,7 @@ Identity gender and language variety in Twitter in English. In specific, we want
 
 **Description**: Perform simple prediction of world population using linear regression using different data science tools. The target of this project is to learn the complete data science workflow and how to integrate different data science tools into the workflow.
 
-**Tools**: Amazon RDS, Amazon EC2, MySQL, Talend ETL, Tableau
+**Tools**: Amazon RDS, Amazon EC2, MySQL, Talend ETL, Tableau, Python
 
 **Result**: 0.994
 
