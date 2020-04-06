@@ -33,7 +33,7 @@ Identity gender and language variety in Twitter in English. In specific, we want
 
 **Result**: 0.994
 
-![workflow](https://github.com/khuyentran1401/world-population-prediction/blob/master/images/Screenshot%202020-04-05%2019.20.49.png)
+![workflow](https://github.com/khuyentran1401/world-population-prediction/blob/master/images/Screenshot%202020-04-05%2019.20.49.png?raw=true)
 
 
 ### Scrape and Analyze Articles
@@ -42,7 +42,7 @@ Identity gender and language variety in Twitter in English. In specific, we want
 **Description**: Extract the text from an article using Python Article Library and use NLTK (Natural Language Processing Toolkit) to preprocess the text and extract the most common words in the article.
 
 **Tools**: Newspaper3k (Python libary for article scraping), NLTK (Natural Language Processing Toolkit) 
-![image](https://github.com/khuyentran1401/Extract-text-from-article/blob/master/images/Screenshot%202020-04-05%2021.39.00.png)
+![image](https://github.com/khuyentran1401/Extract-text-from-article/blob/master/images/Screenshot%202020-04-05%2021.39.00.png?raw=true)
 
 ### Scrape and Analyze Ghibli Movie Database
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/khuyentran1401/Web-scrape-Ghibli-Movie-Database)
