@@ -52,3 +52,7 @@ Identity gender and language variety in Twitter in English. In specific, we want
 **Tools**: Beautiful Soup (a Python library for scraping), NLTK (Natural Language Processing Toolkit), Scikit-learn, Numpy, Pandas
 ![image](https://image.tmdb.org/t/p/w185_and_h278_bestv2/hnYowHwLq0iUWriAHtiiCWsI2dP.jpg) 
 
+
+
+
+
