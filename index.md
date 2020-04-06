@@ -13,6 +13,8 @@ Predict whether a tweet is about a disaster ot not. Preprocess with NLTK (Natura
 <center><img src="images/word2vec.png?raw=true"/></center>
 
 ---
+
+### Predict Gender and Location of Author in Twitter
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/khuyentran1401/Author-Profiling)
 
 Identity gender and language variety in Twitter in English. In specific, we want to classify between **male** and **female** and their locations including **Australia, Canada, Great Britain, Ireland, New Zealand, United States**.
