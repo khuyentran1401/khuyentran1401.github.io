@@ -25,6 +25,13 @@ Identity gender and language variety in Twitter in English. In specific, we want
 ---
 
 ## Data Science
+### Classify Handwritten Digits with Implementation of Logistic Regression and Gradient Descent
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/khuyentran1401/MNIST-gradient-descent)
+
+**Description**: This is my final project of my numerical optimzation class. The task is to implement logistic regression and gradient descent to classify images of handwritten digits. Through this project, I gained a much better understanding of how to use gradient descent when the function representing the data is not convex
+
+**Development**: The mathematical formulation and the logic of this projects could be found [here](https://github.com/khuyentran1401/MNIST-gradient-descent/blob/master/formulation.pdf). 
+![image](https://github.com/khuyentran1401/khuyentran1401.github.io/blob/master/images/MNIST.png)
 
 ### World Population Prediction
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/khuyentran1401/world-population-prediction)
