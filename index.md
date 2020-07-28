@@ -1,5 +1,5 @@
 # My Collections of Data Science Articles
-I like to read many data science articles to expand my knowledge as well as apply it for real-world problems. But it is extremely difficult to remember everything I read. I would like to organize the articles I read so that it is easier for me to refer back to them in the future.
+I like to read many data science articles to expand my knowledge as well as apply it for real-world problems. But it is extremely difficult to remember everything I read. Thus, I would like to organize the articles I read so that it is easier for me to refer back to them in the future.
 
 In particular, I want to sort the article by categories, summarize what the article about, and write down key takeaways from the article. I found Github issues is a perfect tool for this. Thus, I created this [machine-learning-articles repo](https://github.com/khuyentran1401/machine-learning-articles/) to organize my data science articles with Github issues. 
 
