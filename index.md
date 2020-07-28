@@ -9,7 +9,7 @@ In particular, I want to sort, summarize, and write down key takeaways from the 
 Check out the page for the repo [here](https://khuyentran1401.github.io/machine-learning-articles/). Contributions are welcomed.
 
 # My Collection of Python Data Science Libraries
-I also encountered many data science tools everyday. I would like to try them when I need so I want a placeholder for these tools. I found this [awesome-python-data-science repo](https://github.com/khuyentran1401/awesome-python-data-science/) is the perfect one for that. I contributed to this repository so that I could organize the new tools I found as well as learn the tools that others have collected.
+I also encountered many data science tools everyday. I want to use them when I need so I want a placeholder for these tools. I found this [awesome-python-data-science repo](https://github.com/khuyentran1401/awesome-python-data-science/) is the perfect one for that. I contributed to this repository so that I could organize the new tools I found as well as learn the tools that others have collected.
 
 See the collection [here](https://khuyentran1401.github.io/awesome-python-data-science/)
 
