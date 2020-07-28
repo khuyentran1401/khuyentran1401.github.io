@@ -1,12 +1,17 @@
-# My Collections of Data Science Articles
-I like to read many data science articles to expand my knowledge as well as apply it for real-world problems. But it is extremely difficult to remember everything I read. Thus, I would like to organize the articles I read so that it is easier for me to refer back to them in the future.
+# My Collection of Data Science Articles
+I like to read a variety of data science articles to expand my knowledge as well as apply it for real-world problems. But it is extremely difficult to remember every article. Thus, I want to organize the articles so that it is easier for me to refer back to them in the future.
 
-In particular, I want to sort the article by categories, summarize what the article about, and write down key takeaways from the article. I found Github issues is a perfect tool for this. Thus, I created this [machine-learning-articles repo](https://github.com/khuyentran1401/machine-learning-articles/) to organize my data science articles with Github issues. 
+In particular, I want to sort, summarize, and write down key takeaways from the article. I found Github issues is a perfect tool for this. I created this [machine-learning-articles repo](https://github.com/khuyentran1401/machine-learning-articles/) to organize my data science articles with Github issues. 
 
 <center><img src="images/github.png?raw=true"/></center>
 
 
 Check out the page for the repo [here](https://khuyentran1401.github.io/machine-learning-articles/). Contributions are welcomed.
+
+# My Collection of Python Data Science Libraries
+I also encountered many data science tools everyday. I would like to try them when I need so I want a placeholder for these tools. I found this [awesome-python-data-science repo](https://github.com/khuyentran1401/awesome-python-data-science/) is the perfect one for that. I contributed to this repository so that I could organize the new tools I found as well as learn the tools that others have collected.
+
+See the collection [here](https://khuyentran1401.github.io/awesome-python-data-science/)
 
 # Portfolio
 
