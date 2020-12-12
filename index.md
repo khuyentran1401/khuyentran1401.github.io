@@ -8,16 +8,49 @@ In particular, I want to sort, summarize, and write down key takeaways from the 
 
 Check out the page for the repo [here](https://khuyentran1401.github.io/machine-learning-articles/). Contributions are welcomed.
 
-# My Collection of Python Data Science Libraries
-I also encountered many data science tools everyday. I want to use them when I need so I want a placeholder for these tools. I found this [awesome-python-data-science repo](https://github.com/khuyentran1401/awesome-python-data-science/) is the perfect one for that. I contributed to this repository so that I could organize the new tools I found as well as learn the tools that others have collected.
+# My Data Science Articles 
+[Collection of useful data science topics](https://github.com/khuyentran1401/Data-science/blob/master/README.md) along with code and articles in [my data science blog](https://khuyentran1476.medium.com/)
 
-See the collection [here](https://khuyentran1401.github.io/awesome-python-data-science/)
+<center><img src="images/Screenshot from 2020-12-12 15-29-59.png?raw=true"/></center>
+
 
 # Portfolio
 
 ---
 
 ## Natural Language Processing
+### Explore and Visualize my LinkedIn Network with Python and Sentiment Analysis
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/khuyentran1401/Author-Profiling)  [![View on Medium](https://img.shields.io/badge/Medium-View%20on%20Medium-red?logo=medium)](https://towardsdatascience.com/sentiment-analysis-of-linkedin-messages-3bb152307f84?sk=37f68405e15816dd4e0cff9c4150ddaa)
+
+<center><img src="https://github.com/khuyentran1401/khuyentran1401.github.io/blob/master/images/linkedin_connection.png?raw=true"/></center>
+
+If you are a LinkedIn user, have you ever wondered about the segments of people in your network? If you are working to expand your connections in the data science world, do most of the people in your network work in a data science-related field?
+
+How about your messages? Are they mostly positive and about the topics that are related to your interests?
+
+As an active user on LinkedIn with more than 500 connections, I was curious about the statistics of people in my network as well as the messages I received over the last 2 years.
+
+In [this article](https://towardsdatascience.com/sentiment-analysis-of-linkedin-messages-3bb152307f84?sk=37f68405e15816dd4e0cff9c4150ddaa), I combine visualization and natural language processing to analyze my network and messages.
+
+---
+### Create an App to Predict Sentiment and Word Similaries
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/khuyentran1401/Data-science/tree/master/nlp/spacy_streamlit_app) [![View on Medium](https://img.shields.io/badge/Medium-View%20on%20Medium-red?logo=medium)](https://towardsdatascience.com/streamlit-and-spacy-create-an-app-to-predict-sentiment-and-word-similarities-with-minimal-domain-14085085a5d4?sk=316e2487e5648b86cf2aebf1e5c5f39c)
+
+Utilize spaCy and Streamlit to create an app to predict sentiment and word similaries 
+
+<center><img src="https://github.com/khuyentran1401/khuyentran1401.github.io/blob/master/images/Peek%202020-12-11%2021-17.gif?raw=true"/></center>
+
+<center><img src="https://github.com/khuyentran1401/khuyentran1401.github.io/blob/master/images/Peek%202020-12-11%2021-54.gif?raw=true"/></center>
+
+
+### Predict Gender and Location of Author in Twitter
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/khuyentran1401/Author-Profiling)
+
+Identity gender and language variety in Twitter in English. In specific, we want to classify between **male** and **female** and their locations including **Australia, Canada, Great Britain, Ireland, New Zealand, United States**.
+
+<center><img src="images/bert-input-output-945x362.png?raw=true"/></center>
+
+---
 
 ### Real or Not - Predict which Tweets are about Real Disasters
 
@@ -29,40 +62,23 @@ Predict whether a tweet is about a disaster ot not. Preprocess with NLTK (Natura
 
 ---
 
-### Predict Gender and Location of Author in Twitter
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/khuyentran1401/Author-Profiling)
+## Data Analysis
+### What I Learned from Scraping 15k Data Science Articles on Medium
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/khuyentran1401/Data-science/tree/master/visualization/medium_articles) [![View on Medium](https://img.shields.io/badge/Medium-View%20on%20Medium-red?logo=medium)](https://khuyentran1476.medium.com/what-i-learned-from-scraping-15k-data-science-articles-on-medium-98a5f252d0aa?sk=65e4e5595844e7543cd70948947cfd71)
 
-Identity gender and language variety in Twitter in English. In specific, we want to classify between **male** and **female** and their locations including **Australia, Canada, Great Britain, Ireland, New Zealand, United States**.
+Have you ever wondered about what factors make an article receive a high number of claps? Besides, as a data science writer, I wonder:
+   * What is the average number of claps? Some articles I came across have 100 or even 1000 claps. Is that a typical number of claps for a Data Science article?
+   * Which titles are most used by data science articles?
+   * What is the ideal reading time for a good article?
+   * Will publishing on the weekdays give more claps than the weekends?
+To answer these questions, I scraped all data science articles on Medium published within the last year.
 
-<center><img src="images/bert-input-output-945x362.png?raw=true"/></center>
 
+<center><img src="https://github.com/khuyentran1401/khuyentran1401.github.io/blob/master/images/Screenshot%20from%202020-12-12%2016-03-40.png?raw=true"/></center>
 
----
-
-## Data Science
-### Classify Handwritten Digits with Implementation of Logistic Regression and Gradient Descent
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/khuyentran1401/MNIST-gradient-descent)
-
-**Description**: This is my final project of my numerical optimzation class. The task is to implement logistic regression and gradient descent to classify images of handwritten digits. Through this project, I gained a much better understanding of how to use gradient descent when the function representing the data is not convex
-
-**Development**: The mathematical formulation and the logic of this projects could be found [here](https://github.com/khuyentran1401/MNIST-gradient-descent/blob/master/formulation.pdf). 
-![image](https://github.com/khuyentran1401/khuyentran1401.github.io/blob/master/images/MNIST.png?raw=true)
-
-### World Population Prediction
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/khuyentran1401/world-population-prediction)
-
-**Description**: Perform simple prediction of world population using linear regression using different data science tools. The target of this project is to learn the complete data science workflow and how to integrate different data science tools into the workflow.
-
-**Tools**: Amazon RDS, Amazon EC2, MySQL, Talend ETL, Tableau, Python
-
-**Result**: 0.994
-
-![workflow](https://github.com/khuyentran1401/world-population-prediction/blob/master/images/Screenshot%202020-04-05%2019.20.49.png?raw=true)
 
 ### Find most Frequent Words in Articles
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/khuyentran1401/Extract-text-from-article)
-
-[**Medium article**](https://towardsdatascience.com/find-common-words-in-article-with-python-module-newspaper-and-nltk-8c7d6c75733?source=friends_link&sk=d20393e97e7cb257ab4c6e0daf2aa698)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/khuyentran1401/Extract-text-from-article) [![View on Medium](https://img.shields.io/badge/Medium-View%20on%20Medium-red?logo=medium)](https://towardsdatascience.com/find-common-words-in-article-with-python-module-newspaper-and-nltk-8c7d6c75733?source=friends_link&sk=d20393e97e7cb257ab4c6e0daf2aa698)
 
 **Description**: Extract the text from an article using Python Article Library and use NLTK (Natural Language Processing Toolkit) to preprocess the text and extract the most common words in the article.
 
@@ -85,27 +101,44 @@ Identity gender and language variety in Twitter in English. In specific, we want
 ![image](https://github.com/khuyentran1401/analyze-happiness-report/blob/master/Screenshot%202020-04-06%2011.00.51.png?raw=true)
 
 ### Analyse Sentiment of Ghibli Movie Database
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/khuyentran1401/Web-scrape-Ghibli-Movie-Database)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/khuyentran1401/Web-scrape-Ghibli-Movie-Database) [![View on Medium](https://img.shields.io/badge/Medium-View%20on%20Medium-red?logo=medium)](https://medium.com/analytics-vidhya/detailed-tutorials-for-beginners-web-scrap-movie-database-from-multiple-pages-with-beautiful-soup-5836828d23?source=friends_link&sk=e9de6368353d703275ec4555b0ebdd0d)
 
-[**Medium article**](https://medium.com/analytics-vidhya/detailed-tutorials-for-beginners-web-scrap-movie-database-from-multiple-pages-with-beautiful-soup-5836828d23?source=friends_link&sk=e9de6368353d703275ec4555b0ebdd0d)
 
 **Description**: Extract data from Ghibli movie database, preprocess the data, and perform sentiment analysis to predict if the movie is negative, positive, or neutral
 
 **Tools**: Beautiful Soup (a Python library for scraping), NLTK (Natural Language Processing Toolkit), Scikit-learn, Numpy, Pandas
 ![image](https://image.tmdb.org/t/p/w185_and_h278_bestv2/hnYowHwLq0iUWriAHtiiCWsI2dP.jpg)
 
-**Tools**: Numpy, Pandas, Seaborn, Scikit-learn
-
 ### Find the Correlation between Depression Rate and Sunshine Hours
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/khuyentran1401/Web-Scrapping-Wikipedia)
-
-[**Medium article**](https://towardsdatascience.com/step-by-step-tutorial-web-scraping-wikipedia-with-beautifulsoup-48d7f2dfa52d?source=friends_link&sk=9d0e6525636b60b7457b658e64889a92)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/khuyentran1401/Web-Scrapping-Wikipedia) [![View on Medium](https://img.shields.io/badge/Medium-View%20on%20Medium-red?logo=medium)](https://towardsdatascience.com/step-by-step-tutorial-web-scraping-wikipedia-with-beautifulsoup-48d7f2dfa52d?source=friends_link&sk=9d0e6525636b60b7457b658e64889a92)
 
 **Motivation**: My roomate and I were discussing about the correlation between the sun and depression. To prove my point that less sun is correlated to depression rate, I gather the data to support my hypothesis.
 
 **Tools**: Beautiful Soup, Numpy, Pandas, Matplotlib
 
 ![image](https://github.com/khuyentran1401/khuyentran1401.github.io/blob/master/images/1_N4ZNL18TtZ1ogq5-zDIDWA.jpeg?raw=true)
+
+## Mathematical Programming
+### How to choose stocks to invest in with Python
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/khuyentran1401/Data-science/blob/master/mathematical_programming/invest_stock/stock_invest.ipynb) [![View on Medium](https://img.shields.io/badge/Medium-View%20on%20Medium-red?logo=medium)](https://towardsdatascience.com/choose-stocks-to-invest-with-python-584892e3ad22?sk=3e678473e4a2e04110e42d1da34aeb00)
+
+You plan to invest in several stocks in the coming 3 years, each with a different expected return for each dollar invested and a specific amount of investment, as shown in the table below (all in thousands of dollars). Given that the amount you can invest in stock purchases is limited each year, you want to decide which stocks to invest in each year so as to maximize the total returns.
+
+[image](https://github.com/khuyentran1401/khuyentran1401.github.io/blob/master/images/1_eh1wLVsYJBhthAbt8fsapw.png?raw=true)
+
+While Machine Learning is great in learning from data and making predictions, it has a limitation in making the optimal decision. But with Python MIP (Mixed-Integer Linear Programming) tool, the stocks chosen for each year could be determined with ease. When your problems involve multiple constraints and allow for many possible solutions, only MIP has the power to find the optimal solution. 
+
+
+### How to Find a Best Match with Python
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/khuyentran1401/Data-science/blob/master/mathematical_programming/invest_stock/stock_invest.ipynb)(https://github.com/khuyentran1401/linear-programming-with-PuLP/blob/master/Matching%20problem.ipynb) [![View on Medium](https://img.shields.io/badge/Medium-View%20on%20Medium-red?logo=medium)](https://towardsdatascience.com/how-to-match-two-people-with-python-7583b51ff3f9?sk=edbb462b52de516d9588f88f2b43b2c4)
+
+Congratulations! You are a new team leader of 8 talented employees. You want to split them into 4 pairs to work on 4 different projects. As an experienced leader, you know employees are the most productive when working with somebody they like. So you come up with a rating system for paring employees. The scales run from 1 to 10, with a 10 rating meaning the employee really likes the other employee and 1 rating meaning the employer does not want to work with the other employee at all. After conducting the survey, you get this result:
+
+[image](https://github.com/khuyentran1401/khuyentran1401.github.io/blob/master/images/1_avpWyMoSv1rS7VQGzedKag.png) 
+
+Since the employees cannot rate themselves, the diagonal elements are zeros. The good news is that you know how much each employer like the others. The bad news is that you don’t know how to match them so that everybody is happy with their teammate! As data enthusiastic, you know that there must be some way you could solve this with data. And you are right.
+
+This problem could easily be solved with mathematical programming. While machine learning is great in learning from data and making predictions, it has a limitation in making the optimal decision. When your problems involve multiple constraints and allow for many possible solutions, only mathematical programming has the power to find the optimal solution.
 
 
 
