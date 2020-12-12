@@ -71,6 +71,7 @@ Have you ever wondered about what factors make an article receive a high number 
    * Which titles are most used by data science articles?
    * What is the ideal reading time for a good article?
    * Will publishing on the weekdays give more claps than the weekends?
+
 To answer these questions, I scraped all data science articles on Medium published within the last year.
 
 
@@ -84,6 +85,25 @@ To answer these questions, I scraped all data science articles on Medium publish
 
 **Tools**: Newspaper3k (Python libary for article scraping), NLTK (Natural Language Processing Toolkit) 
 ![image](https://github.com/khuyentran1401/Extract-text-from-article/blob/master/images/Screenshot%202020-04-05%2021.39.00.png?raw=true)
+
+
+### Analyse Sentiment of Ghibli Movie Database
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/khuyentran1401/Web-scrape-Ghibli-Movie-Database) [![View on Medium](https://img.shields.io/badge/Medium-View%20on%20Medium-red?logo=medium)](https://medium.com/analytics-vidhya/detailed-tutorials-for-beginners-web-scrap-movie-database-from-multiple-pages-with-beautiful-soup-5836828d23?source=friends_link&sk=e9de6368353d703275ec4555b0ebdd0d)
+
+
+**Description**: Extract data from Ghibli movie database, preprocess the data, and perform sentiment analysis to predict if the movie is negative, positive, or neutral
+
+**Tools**: Beautiful Soup (a Python library for scraping), NLTK (Natural Language Processing Toolkit), Scikit-learn, Numpy, Pandas
+![image](https://github.com/khuyentran1401/khuyentran1401.github.io/blob/master/images/1_0UHuFxEe9mrvwXD2HDM4Yw.png?raw=true)
+
+### Find the Correlation between Depression Rate and Sunshine Hours
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/khuyentran1401/Web-Scrapping-Wikipedia) [![View on Medium](https://img.shields.io/badge/Medium-View%20on%20Medium-red?logo=medium)](https://towardsdatascience.com/step-by-step-tutorial-web-scraping-wikipedia-with-beautifulsoup-48d7f2dfa52d?source=friends_link&sk=9d0e6525636b60b7457b658e64889a92)
+
+**Motivation**: My roomate and I were discussing about the correlation between the sun and depression. To prove my point that less sun is correlated to depression rate, I gather the data to support my hypothesis.
+
+**Tools**: Beautiful Soup, Numpy, Pandas, Matplotlib
+
+![image](https://github.com/khuyentran1401/khuyentran1401.github.io/blob/master/images/1_N4ZNL18TtZ1ogq5-zDIDWA.jpeg?raw=true)
 
 ### Determine Predictors of Suicide
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/khuyentran1401/Suicide-rates/tree/master)
@@ -100,41 +120,23 @@ To answer these questions, I scraped all data science articles on Medium publish
 **Visualization Techniques**: Countplot, Jointplot, Heatmap
 ![image](https://github.com/khuyentran1401/analyze-happiness-report/blob/master/Screenshot%202020-04-06%2011.00.51.png?raw=true)
 
-### Analyse Sentiment of Ghibli Movie Database
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/khuyentran1401/Web-scrape-Ghibli-Movie-Database) [![View on Medium](https://img.shields.io/badge/Medium-View%20on%20Medium-red?logo=medium)](https://medium.com/analytics-vidhya/detailed-tutorials-for-beginners-web-scrap-movie-database-from-multiple-pages-with-beautiful-soup-5836828d23?source=friends_link&sk=e9de6368353d703275ec4555b0ebdd0d)
-
-
-**Description**: Extract data from Ghibli movie database, preprocess the data, and perform sentiment analysis to predict if the movie is negative, positive, or neutral
-
-**Tools**: Beautiful Soup (a Python library for scraping), NLTK (Natural Language Processing Toolkit), Scikit-learn, Numpy, Pandas
-![image](https://image.tmdb.org/t/p/w185_and_h278_bestv2/hnYowHwLq0iUWriAHtiiCWsI2dP.jpg)
-
-### Find the Correlation between Depression Rate and Sunshine Hours
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/khuyentran1401/Web-Scrapping-Wikipedia) [![View on Medium](https://img.shields.io/badge/Medium-View%20on%20Medium-red?logo=medium)](https://towardsdatascience.com/step-by-step-tutorial-web-scraping-wikipedia-with-beautifulsoup-48d7f2dfa52d?source=friends_link&sk=9d0e6525636b60b7457b658e64889a92)
-
-**Motivation**: My roomate and I were discussing about the correlation between the sun and depression. To prove my point that less sun is correlated to depression rate, I gather the data to support my hypothesis.
-
-**Tools**: Beautiful Soup, Numpy, Pandas, Matplotlib
-
-![image](https://github.com/khuyentran1401/khuyentran1401.github.io/blob/master/images/1_N4ZNL18TtZ1ogq5-zDIDWA.jpeg?raw=true)
-
 ## Mathematical Programming
 ### How to choose stocks to invest in with Python
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/khuyentran1401/Data-science/blob/master/mathematical_programming/invest_stock/stock_invest.ipynb) [![View on Medium](https://img.shields.io/badge/Medium-View%20on%20Medium-red?logo=medium)](https://towardsdatascience.com/choose-stocks-to-invest-with-python-584892e3ad22?sk=3e678473e4a2e04110e42d1da34aeb00)
 
 You plan to invest in several stocks in the coming 3 years, each with a different expected return for each dollar invested and a specific amount of investment, as shown in the table below (all in thousands of dollars). Given that the amount you can invest in stock purchases is limited each year, you want to decide which stocks to invest in each year so as to maximize the total returns.
 
-[image](https://github.com/khuyentran1401/khuyentran1401.github.io/blob/master/images/1_eh1wLVsYJBhthAbt8fsapw.png?raw=true)
+![image](https://github.com/khuyentran1401/khuyentran1401.github.io/blob/master/images/1_eh1wLVsYJBhthAbt8fsapw.png?raw=true)
 
 While Machine Learning is great in learning from data and making predictions, it has a limitation in making the optimal decision. But with Python MIP (Mixed-Integer Linear Programming) tool, the stocks chosen for each year could be determined with ease. When your problems involve multiple constraints and allow for many possible solutions, only MIP has the power to find the optimal solution. 
 
 
 ### How to Find a Best Match with Python
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/khuyentran1401/Data-science/blob/master/mathematical_programming/invest_stock/stock_invest.ipynb)(https://github.com/khuyentran1401/linear-programming-with-PuLP/blob/master/Matching%20problem.ipynb) [![View on Medium](https://img.shields.io/badge/Medium-View%20on%20Medium-red?logo=medium)](https://towardsdatascience.com/how-to-match-two-people-with-python-7583b51ff3f9?sk=edbb462b52de516d9588f88f2b43b2c4)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/khuyentran1401/linear-programming-with-PuLP/blob/master/Matching%20problem.ipynb) [![View on Medium](https://img.shields.io/badge/Medium-View%20on%20Medium-red?logo=medium)](https://towardsdatascience.com/how-to-match-two-people-with-python-7583b51ff3f9?sk=edbb462b52de516d9588f88f2b43b2c4)
 
 Congratulations! You are a new team leader of 8 talented employees. You want to split them into 4 pairs to work on 4 different projects. As an experienced leader, you know employees are the most productive when working with somebody they like. So you come up with a rating system for paring employees. The scales run from 1 to 10, with a 10 rating meaning the employee really likes the other employee and 1 rating meaning the employer does not want to work with the other employee at all. After conducting the survey, you get this result:
 
-[image](https://github.com/khuyentran1401/khuyentran1401.github.io/blob/master/images/1_avpWyMoSv1rS7VQGzedKag.png) 
+![image](https://github.com/khuyentran1401/khuyentran1401.github.io/blob/master/images/1_avpWyMoSv1rS7VQGzedKag.png) 
 
 Since the employees cannot rate themselves, the diagonal elements are zeros. The good news is that you know how much each employer like the others. The bad news is that you don’t know how to match them so that everybody is happy with their teammate! As data enthusiastic, you know that there must be some way you could solve this with data. And you are right.
 
