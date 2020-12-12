@@ -11,7 +11,7 @@ Check out the page for the repo [here](https://khuyentran1401.github.io/machine-
 # My Data Science Articles 
 [Collection of useful data science topics](https://github.com/khuyentran1401/Data-science/blob/master/README.md) along with code and articles in [my data science blog](https://khuyentran1476.medium.com/)
 
-<center><img src="images/Screenshot from 2020-12-12 15-29-59.png?raw=true"/></center>
+<center><img src="https://github.com/khuyentran1401/khuyentran1401.github.io/blob/master/images/Screenshot%20from%202020-12-12%2016-28-43.png?raw=true"/></center>
 
 
 # Portfolio
