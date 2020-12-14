@@ -24,13 +24,7 @@ Check out the page for the repo [here](https://khuyentran1401.github.io/machine-
 
 <center><img src="https://github.com/khuyentran1401/khuyentran1401.github.io/blob/master/images/linkedin_connection.png?raw=true"/></center>
 
-If you are a LinkedIn user, have you ever wondered about the segments of people in your network? If you are working to expand your connections in the data science world, do most of the people in your network work in a data science-related field?
-
-How about your messages? Are they mostly positive and about the topics that are related to your interests?
-
-As an active user on LinkedIn with more than 500 connections, I was curious about the statistics of people in my network as well as the messages I received over the last 2 years.
-
-In [this article](https://towardsdatascience.com/sentiment-analysis-of-linkedin-messages-3bb152307f84?sk=37f68405e15816dd4e0cff9c4150ddaa), I combine visualization and natural language processing to analyze my network and messages.
+As an active user on LinkedIn with more than 500 connections, I was curious about the statistics of people in my network as well as the messages I received over the last 2 years. This project applies visualization and sentiment analysis to analyze my network and LinkedIn messages.
 
 ---
 ### Create an App to Predict Sentiment and Word Similaries
@@ -66,7 +60,8 @@ Predict whether a tweet is about a disaster ot not. Preprocess with NLTK (Natura
 ### What I Learned from Scraping 15k Data Science Articles on Medium
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/khuyentran1401/Data-science/tree/master/visualization/medium_articles) [![View on Medium](https://img.shields.io/badge/Medium-View%20on%20Medium-red?logo=medium)](https://khuyentran1476.medium.com/what-i-learned-from-scraping-15k-data-science-articles-on-medium-98a5f252d0aa?sk=65e4e5595844e7543cd70948947cfd71)
 
-Have you ever wondered about what factors make an article receive a high number of claps? Besides, as a data science writer, I wonder:
+As a data science writer, I wonder:
+   * What factors make an article receive a high number of claps
    * What is the average number of claps? Some articles I came across have 100 or even 1000 claps. Is that a typical number of claps for a Data Science article?
    * Which titles are most used by data science articles?
    * What is the ideal reading time for a good article?
@@ -124,23 +119,20 @@ To answer these questions, I scraped all data science articles on Medium publish
 ### How to choose stocks to invest in with Python
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/khuyentran1401/Data-science/blob/master/mathematical_programming/invest_stock/stock_invest.ipynb) [![View on Medium](https://img.shields.io/badge/Medium-View%20on%20Medium-red?logo=medium)](https://towardsdatascience.com/choose-stocks-to-invest-with-python-584892e3ad22?sk=3e678473e4a2e04110e42d1da34aeb00)
 
-You plan to invest in several stocks in the coming 3 years, each with a different expected return for each dollar invested and a specific amount of investment, as shown in the table below (all in thousands of dollars). Given that the amount you can invest in stock purchases is limited each year, you want to decide which stocks to invest in each year so as to maximize the total returns.
+Decide which stocks to invest in each year so as to maximize the total returns using mathematical programming.
 
 ![image](https://github.com/khuyentran1401/khuyentran1401.github.io/blob/master/images/1_eh1wLVsYJBhthAbt8fsapw.png?raw=true)
-
-While Machine Learning is great in learning from data and making predictions, it has a limitation in making the optimal decision. But with Python MIP (Mixed-Integer Linear Programming) tool, the stocks chosen for each year could be determined with ease. When your problems involve multiple constraints and allow for many possible solutions, only MIP has the power to find the optimal solution. 
 
 
 ### How to Find a Best Match with Python
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/khuyentran1401/linear-programming-with-PuLP/blob/master/Matching%20problem.ipynb) [![View on Medium](https://img.shields.io/badge/Medium-View%20on%20Medium-red?logo=medium)](https://towardsdatascience.com/how-to-match-two-people-with-python-7583b51ff3f9?sk=edbb462b52de516d9588f88f2b43b2c4)
 
-Congratulations! You are a new team leader of 8 talented employees. You want to split them into 4 pairs to work on 4 different projects. As an experienced leader, you know employees are the most productive when working with somebody they like. So you come up with a rating system for paring employees. The scales run from 1 to 10, with a 10 rating meaning the employee really likes the other employee and 1 rating meaning the employer does not want to work with the other employee at all. After conducting the survey, you get this result:
+Split employees into groups of 2 people while maximizing the preference of each employee.
 
-![image](https://github.com/khuyentran1401/khuyentran1401.github.io/blob/master/images/1_avpWyMoSv1rS7VQGzedKag.png) 
 
-Since the employees cannot rate themselves, the diagonal elements are zeros. The good news is that you know how much each employer like the others. The bad news is that you don’t know how to match them so that everybody is happy with their teammate! As data enthusiastic, you know that there must be some way you could solve this with data. And you are right.
+![image](https://github.com/khuyentran1401/khuyentran1401.github.io/blob/master/images/1_avpWyMoSv1rS7VQGzedKag.png?raw=true) 
 
-This problem could easily be solved with mathematical programming. While machine learning is great in learning from data and making predictions, it has a limitation in making the optimal decision. When your problems involve multiple constraints and allow for many possible solutions, only mathematical programming has the power to find the optimal solution.
+
 
 
 
