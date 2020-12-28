@@ -58,11 +58,11 @@ Predict whether a tweet is about a disaster ot not. Preprocess with NLTK (Natura
 
 ## Data Analysis
 ### I Scraped more than 1k Top Machine Learning Github Profiles and this is what I Found
-[![View on GitHub](https://github.com/khuyentran1401/Data-science/tree/master/visualization/github) [![View on Medium](https://img.shields.io/badge/Medium-View%20on%20Medium-red?logo=medium)](https://towardsdatascience.com/i-scraped-more-than-1k-top-machine-learning-github-profiles-and-this-is-what-i-found-1ab4fb0c0474?sk=68156d6b1c05614d356645728fe02584)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/khuyentran1401/Data-science/tree/master/visualization/github) [![View on Medium](https://img.shields.io/badge/Medium-View%20on%20Medium-red?logo=medium)](https://towardsdatascience.com/i-scraped-more-than-1k-top-machine-learning-github-profiles-and-this-is-what-i-found-1ab4fb0c0474?sk=68156d6b1c05614d356645728fe02584)
 
 When searching the keyword “machine learning” on Github, I found 246,632 machine learning repositories. Since these are top repositories in machine learning, I expect the owners and the contributors of these repositories to be experts or competent in machine learning. Thus, I decided to extract the profiles of these users to gain some interesting insights into their background as well as statistics.
 
-center><img src="https://github.com/khuyentran1401/khuyentran1401.github.io/blob/master/images/0_CzHzgSkeVV0YLtzZ.jpeg?raw=true"/></center>
+<center><img src="https://github.com/khuyentran1401/khuyentran1401.github.io/blob/master/images/0_CzHzgSkeVV0YLtzZ.jpeg?raw=true"/></center>
 
 
 ### What I Learned from Scraping 15k Data Science Articles on Medium
