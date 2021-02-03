@@ -3,7 +3,7 @@ I like to read a variety of data science articles to expand my knowledge as well
 
 In particular, I want to sort, summarize, and write down key takeaways from the article. I found Github issues is a perfect tool for this. I created this [machine-learning-articles repo](https://github.com/khuyentran1401/machine-learning-articles/) to organize my data science articles with Github issues. 
 
-<center><img src="images/github.png?raw=true"/></center>
+<center><img src="https://github.com/khuyentran1401/khuyentran1401.github.io/blob/master/images/github.png"/></center>
 
 
 Check out the page for the repo [here](https://khuyentran1401.github.io/machine-learning-articles/). Contributions are welcomed.
@@ -42,7 +42,7 @@ Utilize spaCy and Streamlit to create an app to predict sentiment and word simil
 
 Identity gender and language variety in Twitter in English. In specific, we want to classify between **male** and **female** and their locations including **Australia, Canada, Great Britain, Ireland, New Zealand, United States**.
 
-<center><img src="images/bert-input-output-945x362.png?raw=true"/></center>
+<center><img src="https://github.com/khuyentran1401/khuyentran1401.github.io/blob/master/images/bert-input-output-945x362.png?raw=true"/></center>
 
 ---
 
@@ -52,7 +52,18 @@ Identity gender and language variety in Twitter in English. In specific, we want
 
 Predict whether a tweet is about a disaster ot not. Preprocess with NLTK (Natural Language Toolkit) and perform model training with various models and techniques including: Tf-Idf, Tf-Idf with Ngrams (words and characters), SelectKbest, Binary Vectorizer, Word2Vec, Neural Network and Convolutional Neural Network with PyTorch. Achieve a f1-score of 80%.
 
-<center><img src="images/word2vec.png?raw=true"/></center>
+<center><img src="https://github.com/khuyentran1401/khuyentran1401.github.io/blob/master/images/word2vec.png?raw=true"/></center>
+
+---
+## Computer Vision
+Create an App to Classify Dogs Using fastai and Streamlit	
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/khuyentran1401/dog_classifier)[![View on Medium](https://img.shields.io/badge/Medium-View%20on%20Medium-red?logo=medium)](https://towardsdatascience.com/how-to-create-an-app-to-classify-dogs-using-fastai-and-streamlit-af3e75f0ee28)  [![View on Streamlit](https://img.shields.io/badge/Streamlit-View%20on%20Streamlit%20app-ff69b4?logo=streamlit)](https://share.streamlit.io/khuyentran1401/dog_classifier/main/dog_classifier.py)
+
+This is a simple app to classify dogs using fastai and streamlit. The app is deployed using Streamlit Sharing. Click [here](https://share.streamlit.io/khuyentran1401/dog_classifier/main/dog_classifier.py) to view and play with the app. 
+
+<center><img src="https://github.com/khuyentran1401/khuyentran1401.github.io/blob/master/images/app_usage.gif"/></center>
+
 
 ---
 
