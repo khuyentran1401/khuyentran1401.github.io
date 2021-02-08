@@ -3,7 +3,7 @@ I like to read a variety of data science articles to expand my knowledge as well
 
 In particular, I want to sort, summarize, and write down key takeaways from the article. I found Github issues is a perfect tool for this. I created this [machine-learning-articles repo](https://github.com/khuyentran1401/machine-learning-articles/) to organize my data science articles with Github issues. 
 
-<center><img src="https://github.com/khuyentran1401/khuyentran1401.github.io/blob/master/images/github.png"/></center>
+<center><img src="https://github.com/khuyentran1401/khuyentran1401.github.io/blob/master/images/github.png?raw=true"/></center>
 
 
 Check out the page for the repo [here](https://khuyentran1401.github.io/machine-learning-articles/). Contributions are welcomed.
